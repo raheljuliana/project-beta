@@ -1,5 +1,5 @@
 <div class="container">
-    <h1>Dashboard</h1>
+    <h1>MENU UTAMA</h1>
     <div class="row">
         <div class="col-sm-6">
             <div class="card" style="width: 18rem;">
